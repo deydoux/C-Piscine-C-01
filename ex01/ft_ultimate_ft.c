@@ -6,11 +6,9 @@
 /*   By: deydoux <deydoux@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 08:46:53 by deydoux           #+#    #+#             */
-/*   Updated: 2023/07/06 09:19:54 by deydoux          ###   ########.fr       */
+/*   Updated: 2023/07/06 09:52:21 by deydoux          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <unistd.h>
 
 void	ft_ultimate_ft(int *********nbr)
 {

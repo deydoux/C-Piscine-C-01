@@ -6,11 +6,9 @@
 /*   By: deydoux <deydoux@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 08:20:25 by deydoux           #+#    #+#             */
-/*   Updated: 2023/07/06 08:45:02 by deydoux          ###   ########.fr       */
+/*   Updated: 2023/07/06 09:50:54 by deydoux          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <unistd.h>
 
 void	ft_ft(int *nbr)
 {
