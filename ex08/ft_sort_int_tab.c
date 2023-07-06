@@ -6,14 +6,14 @@
 /*   By: deydoux <deydoux@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 19:36:21 by deydoux           #+#    #+#             */
-/*   Updated: 2023/07/06 21:23:29 by deydoux          ###   ########.fr       */
+/*   Updated: 2023/07/06 21:27:08 by deydoux          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 void	ft_swap(int *a, int *b)
 {
 	int	tmpa;
-	
+
 	tmpa = *a;
 	*a = *b;
 	*b = tmpa;
