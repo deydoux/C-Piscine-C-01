@@ -6,11 +6,9 @@
 /*   By: deydoux <deydoux@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 16:43:10 by deydoux           #+#    #+#             */
-/*   Updated: 2023/07/06 20:16:13 by deydoux          ###   ########.fr       */
+/*   Updated: 2023/07/06 20:32:21 by deydoux          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <stdio.h>
 
 void	ft_swap(int *a, int *b)
 {
