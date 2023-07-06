@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: deydoux <deydoux@student.42lyon.f>         +#+  +:+       +#+        */
+/*   By: deydoux <deydoux@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 11:28:42 by deydoux           #+#    #+#             */
-/*   Updated: 2023/07/06 12:17:09 by deydoux          ###   ########.fr       */
+/*   Updated: 2023/07/06 16:20:14 by deydoux          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,8 @@
 void	ft_putstr(char *str)
 {
 	int	i;
-	
+
+	i = 0;
 	while (str[i])
 	{
 		write(1, &str[i], 1);
